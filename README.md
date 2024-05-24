@@ -4,7 +4,7 @@ GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
 ## open-source-practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
-
+ 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
 ### Option 1. Complete this process in GitHub (in your browser)
@@ -248,6 +248,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **M**
   - Me
+  - [Mani Dixit](https://github.com/manidixit51)
   - [Maryam Mohamed Yahya](https://github.com/MaryamMohamedYahya)
   - Mihir Phalke (https://github.com/mihirphalke1)
 | [`Back To Top`](#contents) |
